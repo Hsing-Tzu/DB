@@ -5,5 +5,5 @@
 
 ### Name：Hsing-Tzu Ko🌼
 
-### Department：NTNU TAHRD 114:lion:🏫
+### Department：TAHRD 114:lion:🏫
 
