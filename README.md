@@ -8,4 +8,4 @@
 ### Department：TAHRD 114:lion:🏫
 
 ## > Homework 📝
-### - [Homework 0](https://www.youtube.com/watch?v=9dRXiToZuH4)
+### - HW0 [Development Environment Setting](https://www.youtube.com/watch?v=9dRXiToZuH4) 
