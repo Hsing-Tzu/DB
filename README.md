@@ -14,6 +14,7 @@
 ### - HW2 [CRUD in Web APP with My Table](https://youtu.be/1AhiBY4fIxs)
 ### - HW3 [CRUD in NoSQL from My SQL Table](https://youtu.be/8HW0BY2-eVE)
 ### - HW4 [Assist the Little Apprentice in Three Previous Assignments](https://github.com/41071134h/DB)
+### - HW5 [Deploy All Jobs to the cloud service](https://youtu.be/FVPLCzgQHR8)
 
 ## > Final Project 🌏🚢
 ### - First Proposal [Topic Introduction](https://www.youtube.com/watch?v=HKzjosdfNwU)
