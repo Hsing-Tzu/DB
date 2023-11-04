@@ -13,3 +13,7 @@
 ![Homework 1/ERD.jpg](https://github.com/Hsing-Tzu/DB/blob/main/Homework%201/ERD.jpg)
 ### - HW2 [CRUD in Web APP with My Table](https://youtu.be/1AhiBY4fIxs)
 ### - HW3 [CRUD in NoSQL from My SQL Table](https://youtu.be/8HW0BY2-eVE)
+### - HW4 [Assist the Little Apprentice in Three Previous Assignments](https://github.com/41071134h/DB)
+
+## > Final Project 🌏🚢
+### - First Proposal [Topic Introduction](https://www.youtube.com/watch?v=HKzjosdfNwU)
