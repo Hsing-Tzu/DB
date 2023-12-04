@@ -28,6 +28,7 @@ jobs:
         run: |
           cd Deploy/client
           npm install
+          npm install axios
           npm run build
           cp -r ./build ../server/public
             
