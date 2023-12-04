@@ -8,7 +8,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 // Serve static files from the React build directory
-app.use(express.static('./client/build'));
+app.use(express.static('../client/build'));
 
 // For any other route, serve the React app's index.html
 app.get("*", (req, res) => {
