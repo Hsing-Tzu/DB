@@ -2,19 +2,19 @@ const express = require("express");
 const cors = require("cors");
 const mongoose = require("mongoose");
 const ObjectId = mongoose.Types.ObjectId;
-//const path = require("path");
+const path = require("path");
 const app = express();
 
 app.use(cors());
 app.use(express.json());
-// // Serve static files from the React build directory
-// app.use(express.static('./client/build'));
+// Serve static files from the React build directory
+app.use(express.static('./client/build'));
 
-// // For any other route, serve the React app's index.html
-// app.get("*", (req, res) => {
-//   res.sendFile(path.resolve(__dirname, "client", "build",     
-//   "index.html"));
-// });
+// For any other route, serve the React app's index.html
+app.get("*", (req, res) => {
+  res.sendFile(path.resolve(__dirname, "client", "build",     
+  "index.html"));
+});
 
 mongoose.connect("mongodb+srv://41071105H:41071105H@cluster0.h9q2tfk.mongodb.net/", {
   useNewUrlParser: true,
