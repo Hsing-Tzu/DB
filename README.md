@@ -17,4 +17,7 @@
 ### - HW5 [Deploy All Jobs to the cloud service](https://youtu.be/FVPLCzgQHR8)
 
 ## > Final Project 🌏🚢
-### - First Proposal [Topic Introduction](https://www.youtube.com/watch?v=HKzjosdfNwU)
+### - First Proposal [Topic Introduction](https://youtu.be/HKzjosdfNwU)
+### - Second Proposal [Refine the Focus of the Scope](https://youtu.be/RrKSo9HDoPs)
+### - Third Proposal [Completed Tasks](https://youtu.be/Da1qEqTa73k)
+### - Final Demo [Video](https://youtu.be/G-xK8LLmRKY) / [Source Code](https://github.com/patty111/VesselTracker/tree/practice) / [Website](https://hsing-tzu.github.io/VesselTracker/)
